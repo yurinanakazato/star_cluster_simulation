@@ -9,7 +9,7 @@ list_title: One day workshop for high-z cosmological simulations
 <link rel="stylesheet" href="{{'/css/style.css'|relative_url}}">
 
 <p align="center">
-<img src="./image/JWST_image2.png" width="950px">
+<img src="/assets/images/stellar_clusters_JWST_ALMA.png" width="950px">
 </p>
 
 
