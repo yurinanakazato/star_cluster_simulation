@@ -5,8 +5,8 @@ author: "Yurina Nakazato"
 lang: en
 
 # GitHub Pages用
-url: "https://<あなたのユーザー名>.github.io"  # 例: https://yurinanakazato.github.io
-baseurl: "/<リポジトリ名>"                       # 例: /star_cluster_simulation
+url: "https://yurinanakazato.github.io"  # 例: https://yurinanakazato.github.io
+baseurl: "/star_cluster_simulation"                       # 例: /star_cluster_simulation
 
 # テーマ
 theme: minima
