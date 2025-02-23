@@ -31,8 +31,10 @@ Room 913 in Science Building 1, Department of Physics, University of Tokyo
 - Yurina Nakazato (The University of Tokyo)
 
 ## Program Schedule
+## Program Schedule
+
 | Contents                                                    | Speaker         |
-|------------------------------------------------------------ |-----------------|
+|------------------------------------------------------------|-----------------|
 | In-situ formation of star clusters via galactic disk fragmentation | Lucio Mayer     |
 | Lambda CDM clusters at cosmic dawn                         | Claire Williams |
 | Star-by-star simulation of cluster evolution               | Michiko Fujii   |
