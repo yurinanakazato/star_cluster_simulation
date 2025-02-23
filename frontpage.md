@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "Star Cluster Simulations Workshop"
+title: ""  # 空にすることで、ページタイトルは表示しない
 permalink: /
 ---
 
@@ -8,7 +8,9 @@ permalink: /
 
 <!-- 画像を中央寄せして表示する例 -->
 <div style="text-align: center;">
-  <img src="{{ '/assets/images/stellar_clusters_JWST_ALMA.png' | relative_url }}" width="800px" alt="stellar cluster">
+  <img src="{{ '/assets/images/stellar_clusters_JWST_ALMA.png' | relative_url }}"
+       style="width: 100%; height: auto; max-height: 300px; object-fit: cover;"
+       alt="stellar cluster">
   <br>
   <span style="font-size: 80%; color: gray;">
     credit: NSF/AUI/NSF NRAO/S.Dagnello
