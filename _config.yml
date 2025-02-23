@@ -22,7 +22,7 @@ minima:
 # ホームページに表示するページ (Minima ではなくてもOK)
 # もし複数ページをナビゲーションバーに表示したいなら使う
 header_pages:
-  - index.md
+  - frontpages.md
 
 # ビルドに含めたいフォルダ (assets や css は通常自動的に含まれます)
 # include:
