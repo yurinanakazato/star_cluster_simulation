@@ -1,0 +1,6 @@
+/* 必要に応じてCSSを記述 */
+body {
+  font-family: sans-serif;
+  line-height: 1.6;
+  margin: 1rem;
+}
