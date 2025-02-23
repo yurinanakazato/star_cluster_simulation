@@ -31,7 +31,6 @@ Room 913 in Science Building 1, Department of Physics, University of Tokyo
 - Yurina Nakazato (The University of Tokyo)
 
 ## Program Schedule
-## Program Schedule
 
 | Contents                                                    | Speaker         |
 |------------------------------------------------------------|-----------------|
