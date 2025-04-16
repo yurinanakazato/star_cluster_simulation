@@ -29,15 +29,19 @@ Room 913 in Science Building 1, Department of Physics, University of Tokyo
 - Claire Williams (UCLA)  
 - Michiko Fujii (The University of Tokyo)  
 - Yurina Nakazato (The University of Tokyo)
+- Hajime Fukushima (University of Tsukuba)  
 
 ## Program Schedule
 
-| Contents                                                    | Speaker         |
-|------------------------------------------------------------|-----------------|
-| In-situ formation of star clusters via galactic disk fragmentation | Lucio Mayer     |
-| Lambda CDM clusters at cosmic dawn                         | Claire Williams |
-| Star-by-star simulation of cluster evolution               | Michiko Fujii   |
-| Merger-driven clump formation in high-redshift galaxies    | Yurina Nakazato |
+| Time         | Speaker          | Contents                                                  |
+|--------------|------------------|-----------------------------------------------------------|
+| lunch        |                  |                                                           |
+| 13:30-14:10  | Lucio Mayer      | In-situ formation of star clusters via galactic disk fragmentation |
+| 14:10-14:50  | Yurina Nakazato  | Merger-driven clump formation in high-redshift galaxies   |
+| 14:50-15:30  | Claire Williams  | Lambda CDM clusters at cosmic dawn                        |
+| tea          |                  |                                                           |
+| 15:50-16:30  | Michiko Fujii    | Star-by-star simulation of cluster evolution              |
+| 16:30-17:10  | Hajime Fukushima | UV radiation feedback in clusters                         |
 
 ## Abstract
 TBA
