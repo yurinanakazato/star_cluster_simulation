@@ -1,6 +1,8 @@
-/* 必要に応じてCSSを記述 */
 body {
   font-family: sans-serif;
   line-height: 1.6;
   margin: 1rem;
+  /* ここで最大幅の制約を解除または変更する */
+  max-width: none;
+  width: 100%;
 }
