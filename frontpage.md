@@ -40,8 +40,8 @@ Room 913 in Science Building 1, Department of Physics, University of Tokyo
 | 14:10-14:50  | Yurina Nakazato  | Merger-driven clump formation in high-redshift galaxies   |
 | 14:50-15:30  | Claire Williams  | Lambda CDM clusters at cosmic dawn                        |
 | tea          |                  |                                                           |
-| 15:50-16:30  | Michiko Fujii    | Star-by-star simulation of cluster evolution              |
-| 16:30-17:10  | Hajime Fukushima | UV radiation feedback in clusters                         |
+| 15:50-16:30  | Hajime Fukushima | UV radiation feedback in clusters                         |
+| 16:30-17:10  | Michiko Fujii    | Star-by-star simulation of cluster evolution              |
 
 ## Abstract
 TBA
