@@ -21,7 +21,7 @@ permalink: /
 April 24th, Thursday, 2025
 
 ## Place
-Room 913 in Science Building 1, Department of Physics, University of Tokyo  
+Room 431 in Science Building 1, Department of Physics, University of Tokyo  
 [Access Map](https://www.phys.s.u-tokyo.ac.jp/en/access/)
 
 ## Speakers
